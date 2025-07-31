@@ -153,4 +153,6 @@ HotelBookingSystem/
 - ✅ **Runs immediately** with F6
 - ✅ **All GUI features** working
 
-**This is a simple, clean, and fully functional Hotel Booking System that demonstrates Java GUI programming perfectly!** 🏨✨ 
+* **Email:** [khaledabdulla@gmail.com](mailto:khaledabdulla@gmail.com)
+* **GitHub:** [github.com/khaled1234kh](https://github.com/khaled1234kh)
+* **LinkedIn:** [linkedin.com/in/khaled-mohamed-22a22a325](https://linkedin.com/in/khaled-mohamed-22a22a325)
