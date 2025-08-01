@@ -3,7 +3,8 @@
 A simple but fully functional Hotel Booking System built with Java Swing GUI, designed to work perfectly with Apache NetBeans 25.
 
 ## 🖼️ Application Overview
-<img width="1919" height="1079" alt="Screenshot 2025-08-01 045006" src="https://github.com/user-attachments/assets/e0c628be-5f56-40bc-a73b-6279e2e4ca6a" />
+<img width="1919" height="1021" alt="image" src="https://github.com/user-attachments/assets/ae03858c-df43-47f1-93d6-5c0120a339f0" />
+
 
 
 ## ✅ Features
